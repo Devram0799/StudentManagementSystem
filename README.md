@@ -146,7 +146,9 @@ dotnet run
 
 ### Student List Page
 
-* Display all students
+<img width="1266" height="654" alt="image" src="https://github.com/user-attachments/assets/38c82299-d2c8-468e-b4cc-a106a53da94a" />
+
+
 * Search functionality
 * Sorting functionality
 * Edit/Delete actions
